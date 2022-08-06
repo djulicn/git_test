@@ -1,1 +1,1 @@
-Hello Odin!
+Hello Odin! Let's try to change the global editor to VS Code!
